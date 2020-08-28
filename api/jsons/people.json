@@ -1,0 +1,16 @@
+{
+    "response": {
+        "people": [
+            {
+                "age": 23,
+                "profession": "designer",
+                "name": "Misha"
+            },
+            {
+                "age": 18,
+                "profession": "frontend dev",
+                "name": "Maxim"
+            }
+        ]
+    }
+}
